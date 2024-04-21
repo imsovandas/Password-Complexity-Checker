@@ -12,17 +12,23 @@ This Python script checks the strength of a password based on several criteria s
 
 ## Usage
 1. Clone the repository to your local machine.
-`https://github.com/imsovandas/PRODIGY_CS_03.git`
-3. Navigate to the directory containing the script.
-4. Run the script using Python:
-`python Password-Complexity-Checker.py`.
-6. Enter the password when prompted.
-7. The script will output the strength of the password based on predefined criteria.
+```
+https://github.com/imsovandas/PRODIGY_CS_03.git
+```
+
+2. Navigate to the directory containing the script.
+3. Run the script using Python:
+```
+python Password-Complexity-Checker.py
+```
+
+4. Enter the password when prompted.
+5. The script will output the strength of the password based on predefined criteria.
 
 ## Example
-`
+```
 $ python Password-Complexity-Checker.py
-`
+```
 ```
 --------------------------------------
 Password Strength Checker By Sovan Das
