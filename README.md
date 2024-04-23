@@ -1,7 +1,7 @@
-# Password Strength Checker
+# Password Complexity Checker
 
 ## Description
-This Python script checks the strength of a password based on several criteria such as length, presence of uppercase and lowercase letters, digits, special characters, and common patterns.
+This Python script checks the Complexity of a password based on several criteria such as length, presence of uppercase and lowercase letters, digits, special characters, and common patterns.
 
 ## Features
 - Validates password strength against minimum length requirement
