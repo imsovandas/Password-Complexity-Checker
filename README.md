@@ -13,7 +13,7 @@ This Python script checks the Complexity of a password based on several criteria
 ## Usage
 1. Clone the repository to your local machine.
 ```
-git clone https://github.com/imsovandas/PRODIGY_CS_03.git
+git clone https://github.com/imsovandas/Password-Complexity-Checker.git
 ```
 
 2. Navigate to the directory containing the script.
@@ -31,7 +31,7 @@ $ python Password-Complexity-Checker.py
 ```
 ```
 --------------------------------------
-Password Strength Checker By Sovan Das
+Password Complexity Checker By Sovan Das
 --------------------------------------
 
 Enter your password: [Enter your password here]
@@ -42,5 +42,5 @@ Your password strength evaluation will be displayed here.
 Contributions are welcome! If you have any suggestions, improvements, or new features to add, feel free to fork the repository, make your changes, and submit a pull request.
 
 ## Author
-Linkdin : [Sovan Das](https://www.linkedin.com/in/sovanking)
+Linkdin : [Sovan Das](https://www.linkedin.com/in/imsovandas)
 
